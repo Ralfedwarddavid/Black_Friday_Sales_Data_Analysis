@@ -29,3 +29,12 @@ Multi-Column Analysis: Performs multi-column analysis using Seaborn to explore r
 Occupation and Products Analysis: Analyzes the Occupation, Product_ID, and Product_Category_1 columns.  countplot is used to understand the distribution of different occupations and product categories.  Bar plots, in conjunction with groupby(), are used to identify the products with the highest purchasing amounts.
 
 Combining Gender & Marital Status: Combines Gender and Marital_Status for analysis.  Seaborn is used to visualize and gain insights into the combined effect of these two variables on purchasing behavior, primarily using countplot
+
+Key Findings (Summary)
+(Replace this section with the actual insights you derive from your EDA.  For example:)
+
+The majority of customers are male.
+The age group X shows the highest purchasing amount.
+Product category Y is the most popular.
+There is a correlation between occupation Z and higher spending.
+... (Add other key findings)
